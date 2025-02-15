@@ -45,7 +45,7 @@
 ---
 
 ### 🔥 **Projects** 🔥  
-🎯 **SPIRE n’ Friends** *(MERN Stack, GraphQL, MongoDB)*  
+🎯 **Class Curator** *(MERN Stack, GraphQL, MongoDB)*  
 🔹 Designed **interactive course discovery interfaces** using MERN stack.  
 🔹 Built **GraphQL APIs** for real-time updates and peer recommendations.  
 
