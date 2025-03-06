@@ -27,7 +27,7 @@
 
 ### 🚀 **Tech Stack** 🚀  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,java,html,css,js,docker,aws,azure,gcp,mongodb,postgres,tensorflow,pytorch,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,html,css,js,docker,aws,azure,gcp,mongodb,postgres,tensorflow,pytorch,sklearn,git,github" />
 </p>
 
 ---
