@@ -3,11 +3,11 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffb3, #0091ff, #6200ff, #ff00b3);
     -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Hi 👋, I'm Saloni Khatu
+    Welcome to my GitHub page!
   </span>
 </h1>
 
-<h3 align="center">🚀 Data Science, ML, and LLMs Enthusiast | Software Engineer | Data Scientist 🚀</h3>
+<h3 align="center">🚀 Data Science, ML, and LLMs Enthusiast | Data Scientist | Software Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+%7C+NLP+%7C+Software+Engineering;Data+Science+%7C+LLMs+%7C+Generative+AI;Building+Cool+Stuff+with+AI!+%F0%9F%9A%80" alt="Typing SVG" />
