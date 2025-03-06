@@ -1,7 +1,4 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/MuCF8yZPwSasj4SJJv/giphy.gif?cid=ecf05e47nkplaxd6kyf5fanl4lb76exvna72k7k96jmdz21h&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</p>
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffb3, #0091ff, #6200ff, #ff00b3);
