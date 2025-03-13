@@ -26,8 +26,20 @@
 ---
 
 ### 🚀 **Tech Stack** 🚀  
+#### **Programming Languages:**  
+✔️ **Excellent in:** Python, SQL, R  
+✔️ **Proficient in:** HTML, PHP, CSS, JavaScript, TypeScript, Java  
+
+#### **Technologies & Tools:**  
+🔹 **Data Visualization & Analytics:** Power BI, Tableau, Plotly, Matplotlib, Seaborn, MS Excel, Looker, Google Data Studio  
+🔹 **Big Data & Cloud:** Apache Spark, PySpark, Apache Airflow, AWS (Redshift, S3), GCP (BigQuery), Azure (Synapse)  
+🔹 **Databases:** SQL, MySQL, PostgreSQL, MongoDB, Snowflake, BigQuery, Redis  
+🔹 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, Keras, Alteryx, Databricks  
+🔹 **Web & Backend Development:** MERN stack (MongoDB, Express, React, Node.js), REST APIs, GraphQL, Spring Boot, .NET Core  
+🔹 **DevOps & Deployment:** Docker, Kubernetes, Git, Jenkins (CI/CD), Linux, VS Code, IntelliJ IDEA  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,java,html,css,js,docker,aws,azure,gcp,mongodb,postgres,tensorflow,pytorch,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sql,r,mysql,postgres,mongodb,snowflake,bigquery,java,php,html,css,js,typescript,react,nodejs,express,docker,kubernetes,aws,gcp,azure,tensorflow,pytorch,sklearn,spark,kafka,git,github,vscode,linux,tableau,powerbi,bash,redis,graphql,flask,fastapi,postman,jenkins,netlify,vercel,figma" />
 </p>
 
 ---
@@ -57,6 +69,13 @@
 🎯 **Real-time Blockchain Price Prediction** *(PySpark, Kafka, MLlib, MongoDB, Hadoop)*  
 🔹 Developed a **real-time crypto prediction pipeline** with **Apache Kafka & MLlib**, achieving **1.87% MAPE**.  
 🔹 Integrated **Coinbase API** and **Streamlit dashboards** for real-time visualization.  
+
+---
+
+### 📝 **Research Papers Published** 📚  
+📄 **[Optical Character Recognition Notes Application](https://www.ijirset.com/upload/2018/april/105_Optical.pdf)** *(e-ISSN: 2319-8753)*  
+📄 **[Library Management System using Alexa](https://www.ijireeice.com/upload/2020/may-20/IJIREEICE.2020.8519.pdf)** *(ISSN: 2321-0613)*  
+📄 **[Cryptocurrency in India - Indicoin](https://www.ijireeice.com/upload/2020/july-20/IJIREEICE.2020.8613.pdf)** *(ISSN: 2321-0613)*  
 
 ---
 
