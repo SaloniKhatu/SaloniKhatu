@@ -39,7 +39,7 @@
 🔹 **DevOps & Deployment:** Docker, Kubernetes, Git, Jenkins (CI/CD), Linux, VS Code, IntelliJ IDEA  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,mysql,postgres,mongodb,snowflake,bigquery,java,php,html,css,js,typescript,react,nodejs,express,docker,kubernetes,aws,gcp,azure,tensorflow,pytorch,sklearn,spark,kafka,git,github,vscode,linux,tableau,powerbi,bash,redis,graphql,flask,fastapi,postman,jenkins,netlify,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,mongodb,java,php,html,css,js,typescript,react,nodejs,express,docker,kubernetes,aws,gcp,azure,tensorflow,pytorch,sklearn,kafka,git,github,vscode,linux,pycharm,bash,redis,graphql,flask,fastapi,postman,jenkins,netlify,vercel,figma" />
 </p>
 
 ---
