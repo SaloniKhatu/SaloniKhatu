@@ -49,7 +49,7 @@
 🔹 Mentored 50+ students on **startup ideas, business models, and execution strategies**, integrating **data science methodologies, machine learning, and predictive modeling**.  
 🔹 Evaluated assignments, provided feedback, and guided students in analyzing beachhead markets using **statistical analysis and data visualization**.  
 
-🟠 **Software Engineer - Data Intern @ Nibodh Pvt. Ltd.** *(May 2022 – Jan. 2023)*  
+🟠 **Data Scientist @ Nibodh Pvt. Ltd.** *(May 2022 – Jul. 2023)*  
 🔹 Developed **predictive models using PCA, SVD, and K-Means** to improve early detection of at-risk students, increasing academic KPI tracking accuracy by **90%**.  
 🔹 Built **automated real-time dashboards in Tableau**, integrating data pipelines to monitor performance trends.  
 🔹 Conducted **feature engineering, statistical analysis, and optimization** on large datasets using **SQL, Pandas, NumPy**.  
