@@ -50,8 +50,8 @@
 🔹 Evaluated assignments, provided feedback, and guided students in analyzing beachhead markets using **statistical analysis and data visualization**.  
 
 🟠 **Software Engineer Intern @ Nibodh Pvt. Ltd.** *(May 2022 – Jan. 2023)*  
-🔹 Developed and deployed a web portal using **JavaScript**, **HTML**, **Java**, **CSS**, and **SQL Server** enabling parents to access student information; integrated student-parent data and successfully hosted the portal using AWS cloud services.
-🔹 Performed end-to-end testing using **Selenium** to validate functionality across the web portal, ensured adherence to object-oriented design principles; utilized **Git** for version control to manage and track code changes efficiently.
+🔹 Developed and deployed a web portal using **JavaScript**, **HTML**, **Java**, **CSS**, and **SQL Server**; integrated data and successfully hosted the portal using AWS cloud services.
+🔹 Performed end-to-end testing using **Selenium** to validate functionality across the web portal; utilized **Git** for version control to manage and track code changes efficiently.
 🔹 Collaborated with a Scrum team following Agile methodologies, implemented **CI/CD (Jenkins)** pipeline, and optimized processes to deliver a fully functional system, enhancing data accessibility for the school’s stakeholders.
 
 ---
