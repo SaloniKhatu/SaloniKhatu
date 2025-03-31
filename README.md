@@ -50,7 +50,7 @@ Relevant Courses: Cloud Computing, Big Data, Advanced Data Science
 🔹 **Dev Tools:** Git, Docker, Jupyter, Linux, VS Code  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,mongodb,java,js,html,css,react,nodejs,docker,aws,gcp,azure,tensorflow,pytorch,sklearn,git,github,vscode,linux,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mysql,mongodb,java,js,html,css,react,nodejs,docker,aws,gcp,azure,tensorflow,pytorch,sklearn,git,github,vscode,linux,jupyter" />
 </p>
 
 ---
