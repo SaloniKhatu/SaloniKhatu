@@ -1,3 +1,4 @@
+
 <!-- HEADER -->
 
 <h1 align="center">
@@ -7,79 +8,92 @@
   </span>
 </h1>
 
-<h3 align="center">🚀 Data Science, ML, and LLMs Enthusiast | Data Scientist | Software Engineer 🚀</h3>
+<h3 align="center">🚀 Data Scientist | ML & NLP Enthusiast | Software Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+%7C+NLP+%7C+Software+Engineering;Data+Science+%7C+LLMs+%7C+Generative+AI;Building+Cool+Stuff+with+AI!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+%7C+NLP+%7C+Data+Science;Full-Stack+Development+%7C+Generative+AI;Building+Intelligent+Systems+with+Purpose!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎓 **Education** 🎓  
-📍 **University of Massachusetts Amherst** *(M.S. in Computer Science, Concentration in Data Science, GPA: 3.7/4.0, Exp. May 2025)*  
-📍 **St. Francis Institute of Technology** *(B.E. in Computer Engineering, GPA: 3.8/4.0, June 2023)*  
+### 🎓 **Education**  
+📍 **University of Massachusetts Amherst**  
+*M.S. in Computer Science, GPA: 3.7/4.0, Expected May 2025*  
+Relevant Courses: Machine Learning, Responsible AI, NLP, Algorithms for Data Science, Software Engineering, Business Intelligence  
 
-🖥️ **Relevant Courses:** Machine Learning, Responsible AI, NLP, Data Science, Software Engineering, Algorithms for Data Science, Business Intelligence  
-
-📜 **Certifications:** Spark Fundamentals, Big Data 101, The Fundamentals of Digital Marketing, Essentials of AI and Cloud  
+📍 **St. Francis Institute of Technology**  
+*B.E. in Computer Engineering, GPA: 3.8/4.0, Jan. 2020 – June 2023*  
+Relevant Courses: Cloud Computing, Big Data, Advanced Data Science  
 
 ---
 
-### 🚀 **Tech Stack** 🚀  
+### 📜 **Certifications**  
+✔️ Spark Fundamentals  
+✔️ Big Data 101  
+✔️ The Fundamentals of Digital Marketing  
+✔️ Essentials of AI and Cloud  
+
+---
+
+### 🚀 **Technical Skills**
+
 #### **Programming Languages:**  
-✔️ **Excellent in:** Python, SQL, R  
-✔️ **Proficient in:** HTML, PHP, CSS, JavaScript, TypeScript, Java  
+✔️ Excellent in: Python, SQL, R  
+✔️ Proficient in: JavaScript, Java, HTML, CSS, PHP  
 
 #### **Technologies & Tools:**  
-🔹 **Data Visualization & Analytics:** Power BI, Tableau, Plotly, Matplotlib, Seaborn, MS Excel, Looker, Google Data Studio  
-🔹 **Big Data & Cloud:** Apache Spark, PySpark, Apache Airflow, AWS (Redshift, S3), GCP (BigQuery), Azure (Synapse)  
-🔹 **Databases:** SQL, MySQL, PostgreSQL, MongoDB, Snowflake, BigQuery, Redis  
-🔹 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, Keras, Alteryx, Databricks  
-🔹 **Web & Backend Development:** MERN stack (MongoDB, Express, React, Node.js), REST APIs, GraphQL, Spring Boot, .NET Core  
-🔹 **DevOps & Deployment:** Docker, Kubernetes, Git, Jenkins (CI/CD), Linux, VS Code, IntelliJ IDEA  
+🔹 **Data Science & ML:** Scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, Streamlit  
+🔹 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly, MS Excel  
+🔹 **Big Data & Pipelines:** Apache Spark, PySpark, MLlib, Kafka, Hadoop, Apache Zookeeper  
+🔹 **Databases:** PostgreSQL, SQL, MongoDB  
+🔹 **Cloud Platforms:** AWS, GCP, Azure  
+🔹 **Dev Tools:** Git, Docker, Jupyter, Linux, VS Code  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,mongodb,java,php,html,css,js,typescript,react,nodejs,express,docker,kubernetes,aws,gcp,azure,tensorflow,pytorch,sklearn,kafka,git,github,vscode,linux,pycharm,bash,redis,graphql,flask,fastapi,postman,jenkins,netlify,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,mongodb,java,js,html,css,react,nodejs,docker,aws,gcp,azure,tensorflow,pytorch,sklearn,git,github,vscode,linux,jupyter" />
 </p>
 
 ---
 
-### 💼 **Work Experience** 💼  
-🟢 **Graduate Teaching Assistant @ UMass Amherst** *(Sept. 2024 – Present)*  
-🔹 Mentored 50+ students on **startup ideas, business models, and execution strategies**, integrating **data science methodologies, machine learning, and predictive modeling**.  
-🔹 Evaluated assignments, provided feedback, and guided students in analyzing beachhead markets using **statistical analysis and data visualization**.  
+### 💼 **Professional Experience**
 
-🟠 **Software Engineer Intern @ Nibodh Pvt. Ltd.** *(May 2022 – Jan. 2023)*  
-🔹 Developed and deployed a web portal using **JavaScript**, **HTML**, **Java**, **CSS**, and **SQL Server**; integrated data and successfully hosted the portal using AWS cloud services.
-🔹 Performed end-to-end testing using **Selenium** to validate functionality across the web portal; utilized **Git** for version control to manage and track code changes efficiently.
-🔹 Collaborated with a Scrum team following Agile methodologies, implemented **CI/CD (Jenkins)** pipeline, and optimized processes to deliver a fully functional system, enhancing data accessibility for the school’s stakeholders.
+#### 🟢 Data Scientist @ Nibodh Pvt. Ltd. *(Feb. 2022 – Aug. 2023)*  
+- Built predictive models using PCA, SVD, and k-means in Scikit-learn & R—boosted KPIs like grades and attendance by 90%.  
+- Performed preprocessing and statistical analysis on large datasets to optimize academic performance insights.  
+- Developed Tableau dashboards integrated with real-time pipelines to track performance and attendance.
 
----
-
-### 🔥 **Projects** 🔥  
-
-🎯 **Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks** *(Ongoing)*  
-🔹 Transformed **Fourier-based EEG signals into multi-spectral images**, improving cognitive event modeling.  
-🔹 Engineered **deep recurrent-convolutional networks** to enhance classification accuracy.  
-
-🎯 **ModelEval: Assessing Language Models for Code Generation** *(LLMs, LoRA, Hugging Face)*  
-🔹 Fine-tuned **Gemma & SWE Llama models**, achieving a **78% BLEU score** on SQL queries.  
-🔹 Used **bitsandbytes, Unsloth, and AdamW 8-bit** for optimized inference & memory efficiency.  
-
-🎯 **Real-time Blockchain Price Prediction** *(PySpark, Kafka, MLlib, MongoDB, Hadoop)*  
-🔹 Developed a **real-time crypto prediction pipeline** with **Apache Kafka & MLlib**, achieving **1.87% MAPE**.  
-🔹 Integrated **Coinbase API** and **Streamlit dashboards** for real-time visualization.  
+#### 🟠 Software Engineer Intern @ Nibodh Pvt. Ltd. *(Sept. 2021 – Jan. 2022)*  
+- Created and deployed a full-stack portal using HTML, JS, Java & CSS, hosted via AWS.  
+- Validated portal functionalities using Selenium; used Git for efficient version control.  
+- Worked in Agile teams, implemented CI/CD, and improved system accessibility.
 
 ---
 
-### 📝 **Research Papers Published** 📚  
-📄 **[Optical Character Recognition Notes Application](https://www.ijirset.com/upload/2018/april/105_Optical.pdf)** *(e-ISSN: 2319-8753)*  
-📄 **[Library Management System using Alexa](https://www.ijireeice.com/upload/2020/may-20/IJIREEICE.2020.8519.pdf)** *(ISSN: 2321-0613)*  
-📄 **[Cryptocurrency in India - Indicoin](https://www.ijireeice.com/upload/2020/july-20/IJIREEICE.2020.8613.pdf)** *(ISSN: 2321-0613)*  
+### 🔥 **Projects**
+
+#### 🎯 *Learning Representations from EEG with Deep Recurrent-CNNs* (Dec. 2024 – Present)  
+- Transformed EEG signals into multi-spectral 2D images for classification.  
+- Built deep recurrent-CNNs enhancing robustness against subject variability.
+
+#### 🎯 *ModelEval: Evaluating LLMs for SQL Code Generation* (Jan. 2024 – May 2024)  
+- Fine-tuned Gemma & SWE Llama using LoRA; achieved 78% BLEU on SQL tasks.  
+- Leveraged Unsloth, bitsandbytes, and AdamW 8-bit to optimize training & inference.
+
+#### 🎯 *Real-Time Blockchain Price Prediction* (Sept. 2023 – Dec. 2023)  
+- Built real-time pipelines with Kafka, MongoDB, Hadoop; applied PySpark & MLlib.  
+- Achieved 1.87% MAPE using linear regression; deployed dashboard via Streamlit.
 
 ---
 
-### 📊 **GitHub Stats & Streaks** 🔥  
+### 📚 **Publications**  
+📄 [Optical Character Recognition Notes Application](https://www.ijirset.com/upload/2018/april/105_Optical.pdf) (IJIRSET, e-ISSN: 2319-8753)  
+📄 [Library Management System using Alexa](https://www.ijireeice.com/upload/2020/may-20/IJIREEICE.2020.8519.pdf) (IJIREEICE, ISSN: 2321-0613)  
+📄 [Cryptocurrency in India - Indicoin](https://www.ijireeice.com/upload/2020/july-20/IJIREEICE.2020.8613.pdf) (IJIREEICE, ISSN: 2321-0613)
+
+---
+
+### 📊 **GitHub Stats & Activity**
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaloniKhatu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -90,7 +104,8 @@
 
 ---
 
-### 🌍 **Find Me Here** 🌍  
-📫 **Email:** skhatu@umass.edu  
-🔗 **LinkedIn:** [linkedin.com/in/saloni-khatu](https://linkedin.com/in/saloni-khatu/)  
-💻 **GitHub:** [github.com/SaloniKhatu](https://github.com/SaloniKhatu)  
+### 🌐 **Connect with Me**
+
+📫 Email: skhatu@umass.edu  
+🔗 LinkedIn: [linkedin.com/in/saloni-khatu](https://linkedin.com/in/saloni-khatu/)  
+💻 GitHub: [github.com/SaloniKhatu](https://github.com/SaloniKhatu)
