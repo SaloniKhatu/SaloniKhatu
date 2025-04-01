@@ -57,12 +57,8 @@ Relevant Courses: Cloud Computing, Big Data, Advanced Data Science
 
 ### 💼 **Professional Experience**
 
-#### 🟢 Data Scientist @ Nibodh Pvt. Ltd. *(Feb. 2022 – Aug. 2023)*  
-- Built predictive models using PCA, SVD, and k-means in Scikit-learn & R—boosted KPIs like grades and attendance by 90%.  
-- Performed preprocessing and statistical analysis on large datasets to optimize academic performance insights.  
-- Developed Tableau dashboards integrated with real-time pipelines to track performance and attendance.
 
-#### 🟠 Software Engineer Intern @ Nibodh Pvt. Ltd. *(Sept. 2021 – Jan. 2022)*  
+#### 🟠 Software Engineer Intern @ Nibodh Pvt. Ltd. *(May 2022 – Jan. 2023)*  
 - Created and deployed a full-stack portal using HTML, JS, Java & CSS, hosted via AWS.  
 - Validated portal functionalities using Selenium; used Git for efficient version control.  
 - Worked in Agile teams, implemented CI/CD, and improved system accessibility.
