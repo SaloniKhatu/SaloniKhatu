@@ -11,7 +11,7 @@
 <h3 align="center">🚀 Data Scientist | ML & NLP Enthusiast | Software Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+%7C+NLP+%7C+Data+Science;Full-Stack+Development+%7C+GenerativeAI;Building+Intelligent+Systems+with+Purpose!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+NLP+Data+Science;Full-Stack+Development+GenerativeAI;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ---
